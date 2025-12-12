@@ -1,9 +1,7 @@
 # Mini-Estação Meteorológica Didática com Arduino (Datalogger)
 
-> **Status:** Em Desenvolvimento 🚧  
-> **Curso:** Licenciatura em Física - UFES (Alegre)  
-> **Disciplina:** Instrumentação para o Ensino de Física / Projetos  
-> **Período:** 8º Período (2025)
+> **Status:** Em Desenvolvimento 
+> **Curso:** Licenciatura em Física - UFES (Alegre)
 
 ## 1. Resumo do Projeto
 Este projeto consiste no desenvolvimento de uma estação meteorológica portátil e de baixo custo utilizando a plataforma **Arduino**. O objetivo principal é a coleta de dados físicos (Temperatura e Umidade, com expansão futura para Precipitação) para aplicação em aulas de Física (Termodinâmica e Hidrostática) e instrumentação científica.
